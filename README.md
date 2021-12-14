@@ -2,7 +2,7 @@
 
 **listProduct**
 GET localhost:3000/api/product/
-    Query params: new & category
+    Query params: new & stock_gte|stock_gte & limit
 
 **placeOrder**
 POST localhost:3000/api/order
