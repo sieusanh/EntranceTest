@@ -10,3 +10,4 @@ POST localhost:3000/api/order/placeOne
 
 **listOrder**
 GET localhost:3000/api/order/list
+    Query params: amount_gte & limit
